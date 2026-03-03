@@ -25,6 +25,7 @@ select{
     box-sizing: border-box;
 }
 .error{
+    display: block;
     color: red;
     font-size: 14px;
 }
